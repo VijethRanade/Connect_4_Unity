@@ -1,1 +1,1 @@
-# Connect_4_Unity
+"Connect Four" is a two-player game where players drop colored tokens into a grid. The main goal of the player is to create a line of four tokens horizontally, vertically, or diagonally. It's a solved game, perfect play can guarantee a win or a draw. The player achieving this goal becomes the winner, if the board becomes filled, its a draw.
